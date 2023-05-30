@@ -1,0 +1,6 @@
+	1. Commercial Unmanned aerial vehicle (UAV) industry, which is publicly known as drone, has seen a tremendous increase in last few years, making these devices highly accessible to public. This phenomenon has immediately raised security concerns due to fact that these devices can intentionally or unintentionally cause serious hazards. In order to protect critical locations, the academia and industry have proposed several solutions in recent years.
+	2. In market drone detection through radar is already availble but due to low cross section area it cant be used .
+	3. Earlier drones were used to carry explosives near borders . so to avoid such hazards and further damage there is need of drone detection system which will detect the drones and will give alert, by this way further damage can be avoided. 
+	4. In drone detection we will take dataset and give it to system. Train the system with dataset .
+	6. Test the system if it is working or not 
+ 
